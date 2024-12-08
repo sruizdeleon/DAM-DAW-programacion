@@ -24,11 +24,11 @@ El programa debe ofrecer al usuario un menú interactivo para gestionar el inven
 ## Inventario inicial:
 El inventario de la tienda comienza con los siguientes videojuegos:
 
-| Categoría          | Videojuego 1       | Videojuego 2    | Videojuego 3      |  
-|--------------------|--------------------|-----------------|-------------------|  
-| **Acción**         | Call of Duty       | Halo            | Battlefield       |  
-| **Deportes**       | FIFA               | NBA 2K          | Madden NFL        |  
-| **RPG**            | Final Fantasy      | Zelda           | Skyrim            |  
+| Categoría          | Videojuego 1       | Videojuego 2    | Videojuego 3      |
+|--------------------|--------------------|-----------------|-------------------|
+| **Acción**         | Call of Duty       | Halo            | Battlefield       |
+| **Deportes**       | FIFA              | NBA 2K          | Madden NFL        |
+| **RPG**            | Final Fantasy      | Zelda           | Skyrim            |
 
 ---
 
@@ -36,7 +36,6 @@ El inventario de la tienda comienza con los siguientes videojuegos:
 
 ### Menú principal:
 El programa muestra un menú interactivo como este:
-
 ```
 --- MENÚ PRINCIPAL ---
 1. Mostrar inventario
@@ -56,7 +55,6 @@ final fantasy     zelda             skyrim
 
 ### Opción 2: Añadir o actualizar videojuego
 Si el usuario elige la opción 2:
-
 ```
 --- AÑADIR O ACTUALIZAR VIDEOJUEGO ---
 Elige la categoría (1-3): 1
@@ -66,7 +64,6 @@ Introduce el nombre del nuevo videojuego:   APEX LEGENDS
 ```
 
 Y al mostrar el inventario nuevamente:
-
 ```
 --- INVENTARIO ---
 Categoría 1       Categoría 2       Categoría 3       
